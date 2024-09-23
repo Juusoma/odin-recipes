@@ -1,17 +1,6 @@
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: azure;
-}
-
-a{
-    font-size: 32px;
-    background-color: red;
-}
-
-ul, ol{
-    background-color: yellow;
-}
-
-.description{
-    font-style: italic;
+    background: linear-gradient(180deg, rgb(250, 134, 25), rgb(218, 51, 26));
+    height: 100vh;
+    overflow: hidden;
 }
